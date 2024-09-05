@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: my-json-server
+    name: my-json1-server
     env: node
     buildCommand: npm install
     startCommand: node index.js
